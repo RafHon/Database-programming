@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Student RM4-3073 02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student RM4-3073 02\\AppData\\Roaming\\NuGet\\NuGet.Config",

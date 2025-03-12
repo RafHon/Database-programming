@@ -14,7 +14,7 @@ namespace BLL.ServiceInterfaces
             string? groupName = null,
             int? groupId = null,
             bool onlyActive = true,
-            string? sortBy = "Name",
+            string sortBy = "Name",
             bool ascending = true
         );
 

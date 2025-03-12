@@ -11,7 +11,7 @@ namespace BLL.ServiceInterfaces
     {
         IEnumerable<ProductGroupResponseDTO> GetProductGroups(
             int? parentId = null,
-            string? sortBy = "Name",
+            string sortBy = "Name",
             bool ascending = true
         );
 

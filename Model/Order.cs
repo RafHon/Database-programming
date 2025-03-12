@@ -19,6 +19,8 @@ namespace Model
         [ForeignKey(nameof(UserID))]
         public User User { get; set; }
         public ICollection<OrderPosition> OrderPositions { get; set; }
+
+        public bool IsPaid { get; set; }
     }
 
 }

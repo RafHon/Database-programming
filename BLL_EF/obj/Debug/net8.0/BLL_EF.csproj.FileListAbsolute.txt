@@ -1,0 +1,6 @@
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.AssemblyInfoInputs.cache
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.AssemblyInfo.cs
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.CoreCompileInputs.cache
+C:\Users\Student RM4-3073 02\source\repos\Database-programming\BLL_EF\obj\Debug\net8.0\BLL_EF.sourcelink.json

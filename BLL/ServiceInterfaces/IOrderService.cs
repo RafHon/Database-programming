@@ -16,7 +16,7 @@ namespace BLL.ServiceInterfaces
         IEnumerable<OrderResponseDTO> GetOrders(
             int? orderId = null,
             bool? isPaid = null,
-            string? sortBy = "Date",
+            string sortBy = "Date",
             bool ascending = true
         );
 

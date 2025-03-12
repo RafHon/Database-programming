@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DeC9lfkHTnMjVfe+fwFU7QQxkisesAQ6uecAfWrz/ACOS/U2s03KbMIR5fRaqUkBd3Z7GZP7ltl/nEOJhXoU8w==",
+  "dgSpecHash": "ThGElJDRJ5Mx5kM0G/Qv1SjaNwSdKlUnIKuB3jO+J8325YVOiK2DsrmrSNctDo2puVCYM4fq+mfAftmmYdR58g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student RM4-3073 02\\Source\\Repos\\Database-programming\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student RM4-3073 02\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Student RM4-3073 02\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
