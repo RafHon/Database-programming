@@ -9,12 +9,7 @@ namespace BLL.ServiceInterfaces
 {
     public interface IProductGroupService
     {
-        IEnumerable<ProductGroupResponseDTO> GetProductGroups(
-            int? parentId = null,
-            string sortBy = "Name",
-            bool ascending = true
-        );
-
-        void AddProductGroup(string name, int? parentId);
+        IEnumerable<ProductGroupResponseDTO> GetProductGroups(int? parentID, bool ascending);
+        void AddProductGroup(ProductGroupRequestDTO group);
     }
 }

@@ -8,10 +8,9 @@ namespace BLL.ServiceInterfaces
 {
     public interface IBasketService
     {
-        void AddToBasket(int userId, int productId, int amount);
-
-        void UpdateBasketPosition(int userId, int productId, int newAmount);
-
-        void RemoveFromBasket(int userId, int productId);
+        void AddToBasket(int userID, int productID, int amount);
+        void UpdateBasketItem(int userID, int productID, int amount);
+        void RemoveFromBasket(int userID, int productID);
+        int GenerateOrder(int userID);
     }
 }

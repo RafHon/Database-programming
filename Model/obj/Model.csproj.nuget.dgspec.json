@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\Model\\Model.csproj": {}
+    "C:\\Users\\Student RM4-3073 14.IT\\Downloads\\WebAPI\\WebAPI\\WebAPI\\WebAPI\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\Model\\Model.csproj": {
+    "C:\\Users\\Student RM4-3073 14.IT\\Downloads\\WebAPI\\WebAPI\\WebAPI\\WebAPI\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Student RM4-3073 14.IT\\Downloads\\WebAPI\\WebAPI\\WebAPI\\WebAPI\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Student RM4-3073 02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student RM4-3073 02\\source\\repos\\Database-programming\\Model\\obj\\",
+        "projectPath": "C:\\Users\\Student RM4-3073 14.IT\\Downloads\\WebAPI\\WebAPI\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Student RM4-3073 14.IT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student RM4-3073 14.IT\\Downloads\\WebAPI\\WebAPI\\WebAPI\\WebAPI\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student RM4-3073 02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student RM4-3073 14.IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -9,8 +9,7 @@ namespace BLL.ServiceInterfaces
 {
     public interface IUserService
     {
-        UserResponseDTO Login(string login, string password);
-
-        void Logout();
+        UserLoginResponseDTO Login(UserLoginRequestDTO loginRequest);
+        void Logout(int userID);
     }
 }

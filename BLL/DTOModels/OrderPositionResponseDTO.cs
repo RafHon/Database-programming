@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOModels
 {
-    public record OrderPositionResponseDTO(int ProductId, string ProductName, double Price, int Amount, double TotalValue);
+    public record OrderPositionResponseDTO(string ProductName, double Price, int Amount);
 }
